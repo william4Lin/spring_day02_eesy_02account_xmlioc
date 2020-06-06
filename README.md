@@ -1,0 +1,4 @@
+基于XML配置文件配置的IOC测试案例
+操作数据库时使用了DBUtils。
+bean对象都在bean.xml中配置
+使用了QueryRunner
